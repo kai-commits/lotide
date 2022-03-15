@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@kai-commits/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of the Lodash library.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/kai-commits/lotide.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kai Meikle",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kai-commits/lotide/issues"
