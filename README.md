@@ -12,11 +12,11 @@ This project was created and published by me as part of my learnings at Lighthou
 
 **Install it:**
 
-`npm install @kai-commits/lotide`
+`npm install @kaimeikle/lotide`
 
 **Require it:**
 
-`const _ = require('@kai-commits/lotide');`
+`const _ = require('@kaimeikle/lotide');`
 
 **Call it:**
 
