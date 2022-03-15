@@ -1,5 +1,5 @@
 {
-  "name": "@kai-commits/lotide",
+  "name": "@kaimeikle/lotide",
   "version": "1.0.0",
   "description": "A mini clone of the Lodash library.",
   "main": "assertArraysEqual.js",
